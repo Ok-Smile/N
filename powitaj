@@ -1,4 +1,4 @@
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const query = urlParams.get('query')
-if(`$(1)` != `null`){q=`$(query)`;if(Array.from(q)[0] != '@'){"Witaj @${query}, masz pozdrowienia od $(user)!"}else{"Witaj $(query), masz pozdrowienia od $(user)!"}}else{"@$(user) kurde..."}
+if(`$(1)` != `null`){q=`$(query)`;if(Array.from(q)[0] != '@'){"Witajesz @${query}, masz pozdrowienia od $(user)!"}else{"Witaj $(query), masz pozdrowienia od $(user)!"}}else{"@$(user) kurde..."}
