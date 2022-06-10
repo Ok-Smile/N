@@ -1,3 +1,1 @@
-
-const tekst = ["Raz mały elfik szedł se drogą", "Psia jego mać!", "Aż tu krasnolud dorypał mu nogą", "Psia jego mać!", "Oż ty kurduplu w rzyć trącany", "Psia jego mać!", "Pójdę na skargę do twojej mamy!", "Psiaaa jeeeegooo maaaaać!"];
-return tekst;
+["Raz mały elfik szedł se drogą", "Psia jego mać!", "Aż tu krasnolud dorypał mu nogą", "Psia jego mać!", "Oż ty kurduplu w rzyć trącany", "Psia jego mać!", "Pójdę na skargę do twojej mamy!", "Psiaaa jeeeegooo maaaaać!"];
