@@ -1,1 +1,1 @@
-a=$(urlfetch json https://bit.ly/CGNBC1 );l=Object.keys(a).length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+a=$(urlfetch json https://bit.ly/CGNBC1 );l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
