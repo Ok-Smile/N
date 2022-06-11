@@ -1,6 +1,6 @@
 {
-    "owner" {
-        "greeting1" : "Uwaga, uwaga! Właściciel kanału @" . $user . " przybył!",
-        "greeting2" : "Witaj, właścicielu @" . $user . "!"
-    }
+    "owner": [
+        "Uwaga, uwaga! Właściciel kanału @" . $user . " przybył!",
+        "Witaj, właścicielu @" . $user . "!"
+    ]
 } 
