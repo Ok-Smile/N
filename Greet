@@ -1,8 +1,8 @@
 {
-    "owner": [
-        "Uwaga, uwaga! Wlasciciel kanalu @$user przybyl!",
-        "Witaj, wlascicielu @$user!"
-    ],
+	"owner": [
+	"Uwaga, uwaga! Wlasciciel kanalu @$user przybyl!",
+	"Witaj, wlascicielu @$user!"
+	],
 	"moderator": [
 		"Pozdrowienia, moderatorze @$user!",
 		"@$user Siema! To co, ile botów dzisiaj zbanujemy? :D",
