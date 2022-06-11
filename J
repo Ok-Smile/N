@@ -1,6 +1,0 @@
-{
-    "owner": [
-        ("Uwaga, uwaga! Właściciel kanału @" . $user . " przybył!"),
-        ("Witaj, właścicielu @" . $user . "!")
-    ]
-} 
