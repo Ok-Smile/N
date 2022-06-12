@@ -1,0 +1,10 @@
+a=["Co kurwa o mnie piszesz bez pozwolenia?",
+"No chyba ty!",
+"Czego?",
+"Dla ciebie PAN Nightbot, OK?",
+"Ja cię nie obgaduję za plecami",
+"Kto to Nightbot",
+"Daj piątaka to odpowiem",
+"Za Temerię zrobię wszystko, ale Danowi nie dam tej, no"
+]
+;l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
