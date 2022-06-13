@@ -1,5 +1,5 @@
-a=["Ja tylko udaję głąba, tak naprawdę jestem bardzo inteligentny. Ale za bycie inteligentnym mi nie płacą. W ogóle mi tu nie płacą... Że jak bot i nie ma rączek to kurwiego syna nie kupi nie wypije?!",
-"Co kurwa o mnie piszesz bez pozwolenia?",
+a=["Co kurwa o mnie piszesz bez pozwolenia?",
+"Ja tylko udaję głąba, tak naprawdę jestem bardzo inteligentny. Ale za bycie inteligentnym mi nie płacą. W ogóle mi tu nie płacą... Że jak bot i nie ma rączek to kurwiego syna nie kupi nie wypije?!",
 "No chyba ty!",
 "Czego?",
 "Dla ciebie PAN Nightbot, OK?",
