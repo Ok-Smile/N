@@ -1,4 +1,4 @@
-["Za Temerię zrobię wszystko, nawet się skurwię.",
+{ "cytaty" : ["Za Temerię zrobię wszystko, nawet się skurwię.",
 "Geralt, ty się znasz! Da radę wytresować smoka?",
 "Lambert jest piękny o tej porze roku.",
 "Wypij moje zdrowie! Zdrowie kurwiego syna Vernona Roche'a!",
@@ -40,3 +40,4 @@
 "Dziad zdjął z głowy wielką futrzaną czapę i dostojnie roztoczył wokół siebie smród.",
 "Gdzie ogiery kastrują tam nie zaszkodzi uważać i na własne jajca.",
 "Zapachniało powiewem jesieni, Z wiatrem zimnym uleciał słów sens. Tak być musi, niczego nie mogą już zmienić Brylanty na końcach Twych rzęs."]
+}
