@@ -1,0 +1,30 @@
+{
+	"owner": [
+		"Uwaga, uwaga! Właściciel kanału @$user przybył!",
+		"Witaj, właścicielu @$user!"
+	],
+	"moderator": [
+		"Pozdrowienia, moderatorze @$user!",
+		"@$user Siema! To co, ile botów dzisiaj zbanujemy? :D",
+		"@$user Cześć, niebieski temerski towarzyszu broni!"
+	],
+	"regular": [
+		"Witaj z powrotem, @$user!",
+		"Super, że znów tu wpadłeś, @$user!",
+		"Miło cię znowu widzieć, @$user!",
+		"Witaj, temerski żołnierzu @$user!",
+		"Hej, @$user, masz pozdrowienia od Vernona!"
+	],
+	"subscriber": [
+		"Witaj, @$user! Dziękuję, że wspierasz ten kanał!",
+		"Siema, @$user, czy ten zielony nick to dlatego, że jak ja lubisz Scoia'tael? :D",
+		"Mój przyjaciel @$user, cieszę się, że wpadłeś!",
+		"Co słychać, @$user? Czy stare kurwy chcą już zdychać?",
+		"Hej, @$user, masz pozdrowienia od Vernona!"
+	],
+	"everyone": [
+		"@$user Witaj na kanale! Fajnie, że wpadłeś! :)",
+		"Cześć, @$user! Miło że wpadłeś na strimka! :)",
+		"Witaj, @$user, mam nadzieję, że będziemy się dobrze bawić! :)"
+	]
+} 

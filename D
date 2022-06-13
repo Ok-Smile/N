@@ -1,0 +1,1 @@
+a=["Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka."];l=a.length;r=Math.floor(Math.random()*l);r=r+": Dan: "+a[r];
