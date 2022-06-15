@@ -5,7 +5,7 @@
 	],
 	"moderator": [
 		"Pozdrowienia, moderatorze!",
-		"Siema! To co, ile botów dzisiaj zbanujemy? :D",
+		"Siema! To co, ile botów dzisiaj zbanujemy? :)",
 		"Cześć, niebieski temerski towarzyszu broni!"
 	],
 	"regular": [
@@ -17,14 +17,15 @@
 	],
 	"subscriber": [
 		"Witaj! Dziękuję, że wspierasz ten kanał!",
-		"Siema, czy ten zielony nick to dlatego, że jak ja lubisz Scoia'tael? :D",
-		"Mój przyjaciel, cieszę się, że wpadłeś!",
-		"Co słychać? Czy stare kurwy chcą już zdychać?",
+		"Witaj z powrotem!",
+		"Super, że znów tu wpadłeś!",
+		"Miło cię znowu widzieć!",
+		"Witaj, temerski żołnierzu!",
 		"Hej, masz pozdrowienia od Vernona!"
 	],
 	"everyone": [
-		"Witaj na kanale! Fajnie, że wpadłeś! :)",
-		"Cześć! Miło że wpadłeś na strimka! :)",
-		"Witaj, mam nadzieję, że będziemy się dobrze bawić! :)"
+		"Witaj na kanale! Fajnie, że wpadłeś.",
+		"Cześć! Miło że wpadłeś na strimka.",
+		"Witaj, mam nadzieję, że będziemy się dobrze bawić!"
 	]
 } 
