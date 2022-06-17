@@ -1,1 +1,2 @@
-a=["Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka."];l=a.length;r=Math.floor(Math.random()*l);r=r+": Dan: "+a[r];
+a=["Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka.",
+"Pięściami nie można się bić, ale masz się odbytem napierdalać"];l=a.length;r=Math.floor(Math.random()*l);r=r+": Dan: "+a[r];
