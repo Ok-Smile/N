@@ -1,4 +1,2 @@
 a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
-'"Pięściami nie można się bić, ale masz się odbytem napierdalać"'];index=a.findIndex(function(b) {
-    return b === `$(query)`
-});e=a[i];
+'"Pięściami nie można się bić, ale masz się odbytem napierdalać"'];
