@@ -1,6 +1,17 @@
 a=[
-"ucho",
-"brzuch",
-"nogę",
-"rękę"
+"lewe ucho",
+"prawe ucho",
+"wątrobę",
+"żołądek",
+"bok",
+"lewe udo",
+"prawe udo",
+"lewą łydkę",
+"prawą łydkę",
+"lewe ramię",
+"prawe ramię",
+"lewe przedramię",
+"prawe przedramię",
+"lewe kolano",
+"prawe kolano"
 ];l=a.length;r=Math.floor(Math.random()*l);r=a[r];
