@@ -1,0 +1,6 @@
+a=[
+"ucho",
+"brzuch",
+"nogę",
+"rękę"
+];l=a.length;r=Math.floor(Math.random()*l);r=a[r];
